@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Incidents.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Login" Type="System.String" Scope="User">
+      <Value Profile="(Default)">max_2006@list.ru</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7GlFR2tn3</Value>
+    </Setting>
+    <Setting Name="Interval" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="LastCheckTime" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Site" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://im.gosuslugi.ru/#/login</Value>
+    </Setting>
+    <Setting Name="botToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">6493971849:AAHWNb5GeDKn-qP8rJfPIqYrUTiDWfWPl8o</Value>
+    </Setting>
+    <Setting Name="dialogID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-1002021846019</Value>
+    </Setting>
+    <Setting Name="incidentNumbers" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

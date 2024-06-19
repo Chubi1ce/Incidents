@@ -1,0 +1,1126 @@
+﻿Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется откат для сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника IncidentsService.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется откат для сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника IncidentsService.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Предупреждение. Источник IncidentsService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы IncidentsService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Попытка останова службы IncidentsService.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Предупреждение. Источник IncidentsService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы IncidentsService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.
+Выполняется установка сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Устанавливается служба IncidentsService...
+Служба IncidentsService успешно установлена.
+Создается исходный EventLog IncidentsService в журнале Application...
+Выполняется фиксация сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление сборки 'E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe
+   logfile = E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.InstallLog
+Выполняется удаление источника EventLog IncidentsService.
+Выполняется удаление службы IncidentsService из системы...
+Служба IncidentsService успешно удалена из системы.

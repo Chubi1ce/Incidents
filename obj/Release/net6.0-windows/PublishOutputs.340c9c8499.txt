@@ -1,0 +1,12 @@
+C:\Users\СавенковСС\Desktop\Incidents\Incidents.exe
+C:\Users\СавенковСС\Desktop\Incidents\Incidents.dll
+C:\Users\СавенковСС\Desktop\Incidents\Incidents.deps.json
+C:\Users\СавенковСС\Desktop\Incidents\Incidents.runtimeconfig.json
+C:\Users\СавенковСС\Desktop\Incidents\Incidents.dll.config
+C:\Users\СавенковСС\Desktop\Incidents\Incidents.pdb
+C:\Users\СавенковСС\Desktop\Incidents\Newtonsoft.Json.dll
+C:\Users\СавенковСС\Desktop\Incidents\System.Diagnostics.EventLog.dll
+C:\Users\СавенковСС\Desktop\Incidents\System.ServiceProcess.ServiceController.dll
+C:\Users\СавенковСС\Desktop\Incidents\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\СавенковСС\Desktop\Incidents\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\СавенковСС\Desktop\Incidents\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll

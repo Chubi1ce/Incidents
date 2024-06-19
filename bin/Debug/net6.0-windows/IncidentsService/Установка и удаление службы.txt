@@ -1,0 +1,7 @@
+установка
+"E:\Мои документы\Incidents\IncidentsService\bin\Debug\InstallUtil" "E:\Мои документы\Incidents\IncidentsService\bin\Debug\IncidentsService.exe"
+
+"C:\Users\СавенковСС\Desktop\Incidents\IncidentsService\InstallUtil" "C:\Users\СавенковСС\Desktop\Incidents\IncidentsService\IncidentsService.exe"
+
+удаление
+"E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\InstallUtil" "E:\Мои документы\Incidents\Incidents\bin\Debug\net6.0-windows\IncidentsService\bin\Debug\IncidentsService.exe" /u
